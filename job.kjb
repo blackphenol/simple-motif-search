@@ -131,12 +131,12 @@
         </field>
         <field>
           <variable_name>pattern2</variable_name>
-          <variable_value>1</variable_value>
+          <variable_value>ALL</variable_value>
           <variable_type>JVM</variable_type>
         </field>
         <field>
           <variable_name>pattern3</variable_name>
-          <variable_value>1</variable_value>
+          <variable_value>GT.S</variable_value>
           <variable_type>JVM</variable_type>
         </field>
       </fields>
